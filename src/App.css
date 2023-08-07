@@ -1,0 +1,67 @@
+div{
+   color: rgb(132, 132, 146);
+}
+
+button{
+   background-color: #555555;
+   border-radius: 12px;
+   color: white;
+   padding: 10px 24px;
+   text-align: center;
+   text-decoration: solid;
+   display: inline-block;
+   font-size: 12px;  
+   box-shadow: none;
+   transition-duration: 0.4s;
+}
+
+button:hover {
+   background-color: #e7e7e7;
+   color: #555555;
+}
+
+.newOrder{
+   width: 300px;
+   border: 5px solid black;
+   padding: 50px;
+   margin-left: 560px;
+   align-items: center;
+}
+h1{
+   text-align: center;
+}
+
+h3{
+   text-align: center;
+}
+
+h4{
+   margin: 600px;
+}
+
+.newButton{
+   padding: 5px 12px;
+   margin-top: 10px;
+}
+
+.currentOrders{
+   display: flex;
+   align-items: center;
+   margin-left: 150px;
+}
+
+.updateOrders{
+   width: 500px;
+   height: 300px;
+   border: 5px solid black;
+   padding: 50px;
+   margin: 20px;
+}
+
+.deleteOrder{
+   width: 500px;
+   height: 300px;
+   border: 5px solid black;
+   padding: 50px;
+   margin: 20px;
+}
